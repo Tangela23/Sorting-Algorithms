@@ -1,0 +1,5 @@
+C:\Documents and Settings\Equipo de Laura\Escritorio\AlgoritmosDeOrdenamiento\AlgoritmosDeOrdenamiento\AlgoritmosDeOrdenamiento\bin\Debug\AlgoritmosDeOrdenamiento.dll
+C:\Documents and Settings\Equipo de Laura\Escritorio\AlgoritmosDeOrdenamiento\AlgoritmosDeOrdenamiento\AlgoritmosDeOrdenamiento\bin\Debug\AlgoritmosDeOrdenamiento.pdb
+C:\Documents and Settings\Equipo de Laura\Escritorio\AlgoritmosDeOrdenamiento\AlgoritmosDeOrdenamiento\AlgoritmosDeOrdenamiento\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Equipo de Laura\Escritorio\AlgoritmosDeOrdenamiento\AlgoritmosDeOrdenamiento\AlgoritmosDeOrdenamiento\obj\Debug\AlgoritmosDeOrdenamiento.dll
+C:\Documents and Settings\Equipo de Laura\Escritorio\AlgoritmosDeOrdenamiento\AlgoritmosDeOrdenamiento\AlgoritmosDeOrdenamiento\obj\Debug\AlgoritmosDeOrdenamiento.pdb

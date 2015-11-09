@@ -1,0 +1,5 @@
+bin\Debug\AlgoritmosDeOrdenamiento.dll
+bin\Debug\AlgoritmosDeOrdenamiento.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AlgoritmosDeOrdenamiento.dll
+obj\Debug\AlgoritmosDeOrdenamiento.pdb
